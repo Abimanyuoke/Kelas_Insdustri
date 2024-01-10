@@ -1,3 +1,10 @@
+
+tggdgzgff
+fdzfdvdvd
+fdzfdvdvdfd
+fdzfdvdvdfdfd
+fdzfdvdvddzfz
+
 git init
 git add namafile
 git commit -m "pesan commit apa?"

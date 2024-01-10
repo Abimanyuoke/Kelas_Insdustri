@@ -1,3 +1,5 @@
+"Ini beberapa yg harus di ingat,klo ada yg lupa buka
+
 hallo ges
 git innit
 git add namaFile

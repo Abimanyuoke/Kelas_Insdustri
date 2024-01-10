@@ -1,8 +1,6 @@
 Ayam RAAWWWRRRRR
 
 
-
-
 git init
 git add namafile
 git commit -m "pesan commit apa?"

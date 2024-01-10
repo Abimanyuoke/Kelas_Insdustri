@@ -1,1 +1,9 @@
+"Ini beberapa yg harus di ingat,klo ada yg lupa buka
+
 hallo ges
+git innit
+git add namaFile
+git commit -m "Pesan yg ingin di isi"
+git pull
+git push -u origin main
+git clone LinkRepo

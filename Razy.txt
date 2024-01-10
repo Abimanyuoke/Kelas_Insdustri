@@ -4,3 +4,4 @@ git commit -m "pesan commit apa?"
 git push -u origin main
 git pull
 git clone linkrepo
+

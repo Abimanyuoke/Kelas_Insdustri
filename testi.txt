@@ -1,7 +1,7 @@
 "Ini beberapa yg harus di ingat,klo ada yg lupa buka"
 silahkan,monggo
 
-hallo ges
+hallo ges di bawah ini adalah cara membuat file
 git innit
 git add namaFile
 git commit -m "Pesan yg ingin di isi"
